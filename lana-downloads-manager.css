@@ -1,0 +1,99 @@
+element.style {
+}
+@media (min-width: 768px)
+.hero {
+    padding: 62px calc(50% - 300px) 40px;
+}
+.hero {
+    position: relative;
+    padding: 80px 15px 40px;
+    font-size: 20px;
+    color: #000001;
+    line-height: 1.2;
+    text-align: center;
+    background-color: #f7f7f7;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, strong, sub, sup, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, table, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, a, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    -webkit-tap-highlight-color: transparent;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+* {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.site {
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    min-width: 320px;
+    min-height: 100vh;
+    font-family: "proximanova-regular", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, strong, sub, sup, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, table, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, a, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    -webkit-tap-highlight-color: transparent;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+* {
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    line-height: 1;
+    color: #000;
+    text-align: left;
+    z-index: 1;
+    position: relative;
+}
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, strong, sub, sup, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, table, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, a, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    -webkit-tap-highlight-color: transparent;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+* {
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+}
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, em, img, strong, sub, sup, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, table, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, a, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    -webkit-tap-highlight-color: transparent;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+}
